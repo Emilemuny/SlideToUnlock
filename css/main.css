@@ -281,6 +281,10 @@ textarea {
     }
 }
 
+<<<<<<< HEAD
 .slider {
+=======
+.modal .slider {
+>>>>>>> b37548e74b434106bccd707ff59e980273e2edf1
   width: 100%;
 }
